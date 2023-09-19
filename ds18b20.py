@@ -40,4 +40,4 @@ def read_temp():
 print(' rom: '+ read_rom())
 while True:
     print(' C=%3.3f  F=%3.3f'% read_temp())
-time.sleep(1)ds18b20.py
+time.sleep(1)
